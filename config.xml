@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>KodyRabatowe</name>
+	<displayName><![CDATA[Kody rabatowe dla klientów allegro]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Kody rabatowe dla klientów allegro]]></description>
+	<author><![CDATA[Grzegorz Szczerba]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
